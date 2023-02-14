@@ -52,7 +52,7 @@ Models consumed clean data which led to high accuracy:
 ![test logistic regression model](https://github.com/NourAyman10/ServiceCancellationPredictor/blob/master/test_accuracy_logisticReg.png)
 ![show graphs](https://github.com/NourAyman10/ServiceCancellationPredictor/blob/master/showGraphs.png)  
  
-## Contributors
+## Team members
 - [Mohamed-Samy26](https://github.com/Mohamed-Samy26) 
 - [RedBiscuits](https://github.com/RedBiscuits)
 - [KareemHussen](https://github.com/KareemHussen)
